@@ -9,7 +9,7 @@ The sample market data files include:
 
 Your task is to:
 
-1. Analyze the dataset for any suspicious or unusual trading patterns (e.g., wash trading, pump-and-dump behavior, abnormal volume spikes, manipulative price movements, or other anomalies).
+1. Analyze the datasets for any suspicious or unusual trading patterns (e.g., wash trading, pump-and-dump behavior, abnormal volume spikes, manipulative price movements, or other anomalies).
 2. Produce a concise report describing your findings. The report should include both:
 
      - Written analysis explaining the suspicious patterns you identified and why they may indicate manipulation or irregular activity.
