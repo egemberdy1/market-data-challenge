@@ -4,3 +4,5 @@ The objective of this challenge is to conduct a sample investigation of cryptocu
 
 The sample market data files include:
 
+- [eth-btc-orderbooks.csv](https://github.com/1712n/market-data-challenge/blob/main/eth-btc-orderbooks.csv)
+- 
