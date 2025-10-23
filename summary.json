@@ -1,0 +1,22 @@
+{
+  "trades_rows": 845,
+  "orderbooks_rows": 188,
+  "trades_start": "2025-09-01 00:02:57+00:00",
+  "trades_end": "2025-09-03 23:51:34+00:00",
+  "ob_start": "2025-09-01 00:13:09.511132300+00:00",
+  "ob_end": "2025-09-03 20:50:36.802878100+00:00",
+  "volume_spikes": 0,
+  "return_outliers": 7,
+  "micro_bursts": 11,
+  "wash_pairs": 0,
+  "pump_dump_events": 1,
+  "spread_median": 0.0003594350000000017,
+  "imbalance_mean": -0.5900920084555872,
+  "num_walls": 161,
+  "imbalance_future_corr": 0.1875827445578677,
+  "fig_price": "reports\\figures\\price_with_anomalies.png",
+  "fig_volume": "reports\\figures\\volume_spikes.png",
+  "fig_ret_hist": "reports\\figures\\returns_hist.png",
+  "fig_spread": "reports\\figures\\orderbook_spread.png",
+  "fig_imbalance": "reports\\figures\\orderbook_imbalance.png"
+}
